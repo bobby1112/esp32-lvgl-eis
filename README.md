@@ -20,7 +20,7 @@ Core features:
 
 ## 🗂 Project Structure
 
-
+/src
 
 
 ---
