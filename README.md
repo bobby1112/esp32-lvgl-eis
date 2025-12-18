@@ -20,8 +20,31 @@ Core features:
 
 ## 🗂 Project Structure
 
-/src
-
+``` 
+.
+esp32-lvgl-eis/
+├── JC4827W543_LVGLv9          # src
+│   ├── ButtonPanel.cpp
+│   ├── ButtonPanel.h
+│   ├── EISLogger.cpp
+│   ├── EISLogger.h
+│   ├── EISPlot.cpp
+│   ├── EISPlot.h
+│   ├── JC4827W543_LVGLv9.ino  # main.ino
+│   ├── NXPPoint.cpp
+│   ├── NXPPoint.h
+│   ├── UserMode.cpp
+│   ├── UserMode.h
+│   ├── MeasurementMode.cpp
+│   ├── MeasurementMode.h
+│   ├── LoggingQueue.cpp
+│   ├── LoggingQueue.h
+│   ├── aoby_cloud.cpp
+│   └── aoby_cloud.h
+│
+├── data                      # EIS CSV DATA
+└── README.md
+```
 
 ---
 
