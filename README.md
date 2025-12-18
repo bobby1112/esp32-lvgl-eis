@@ -126,5 +126,3 @@ Connections:
 
 [//]: # (This is also a comment and won't be visible)
 
-[//]: # (🎥 **Demonstration Video:**  )
-[//]: # ([Click here to watch demo video](assets/demo.mp4)
