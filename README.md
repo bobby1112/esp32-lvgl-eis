@@ -122,5 +122,9 @@ Connections:
 ## 📊 Example Output
 - **Nyquist Plot (Modes 1–4):** Real vs Imaginary impedance across 19 frequencies.  
 - **1 kHz Plot (Modes 5–6):** Time series of impedance at 1 kHz.  
-- **CSV Log Example:**  
+- **CSV Log Example:**
 
+[//]: # (This is also a comment and won't be visible)
+
+[//]: # (🎥 **Demonstration Video:**  )
+[//]: # ([Click here to watch demo video](assets/demo.mp4)
